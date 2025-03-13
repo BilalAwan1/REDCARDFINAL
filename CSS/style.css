@@ -1,0 +1,162 @@
+.container {
+  background-color: #96252b;
+  width: 100%;
+  height: 100%;
+}
+.space-1,
+.space-2,
+.space-3,
+.space-4,
+.spacee,
+.footer-space {
+  width: 130px;
+}
+.logo,
+.title,
+.china,
+.para-1,
+.best-clubs,
+.mainn,
+.best-main,
+.text-bvb {
+  display: flex;
+}
+.best-headings {
+    font-size: 55px;
+    font-weight: 900;
+    font-family: system-ui;
+    margin-bottom: 0px;
+    margin-top: 42px;
+}
+.main-logo {
+  position: relative;
+  top: 50px;
+  left: 136px;
+}
+.red-card {
+  font-size: 78px;
+  font-family: sans-serif;
+  font-weight: 900;
+  color: white;
+  height: auto;
+  position: relative;
+  margin: 0px;
+  top: 42px;
+  left: 127px;
+}
+.red-card-div {
+  height: 137px;
+  position: relative;
+}
+.digital-award {
+  height: 60px;
+  font-family: sans-serif;
+  font-weight: 900;
+  margin-top: 0px;
+}
+.para {
+  width: 1112px;
+  font-family: sans-serif;
+  font-size: 26px;
+  color: white;
+  line-height: 32px;
+  position: relative;
+  left: 133px;
+}
+.triangle {
+  position: relative;
+  left: 142px;
+}
+.mainn {
+  position: relative;
+}
+.global-para-div {
+  position: relative;
+}
+.award-1 {
+  font-size: 38px;
+  font-weight: 900;
+  margin-top: 0px;
+  margin-left: 127px;
+}
+.triangle-1 {
+  width: 155px;
+}
+.best-clubs-title {
+  font-size: 55px;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  font-family: sans-serif;
+  font-weight: 800;
+  left: 150px;
+  position: relative;
+}
+.lorem {
+  width: 122px;
+  position: relative;
+  left: 205px;
+}
+.best-clubs {
+  height: 133px;
+}
+.spacee-2 {
+  width: 200px;
+}
+.spacee-3 {
+  width: 80px;
+}
+.lorem-ip {
+  font-size: 21px;
+  margin: 0px;
+  color: #96252b;
+  font-weight: 900;
+}
+.lrm {
+  margin: 0px;
+  font-weight: 900;
+  font-size: 19px;
+}
+.another-space {
+  width: 76px;
+}
+.container-2 {
+  background-color: #96252b;
+  width: 100%;
+  height: 400px;
+}
+.footer {
+  font-size: 55px;
+}
+.footer-space {
+  height: 100px;
+}
+.reports {
+  font-size: 55px;
+  font-family: sans-serif;
+  font-weight: 900;
+  color: white;
+  margin: 0px;
+}
+.text-bvb {
+  height: 100px;
+}
+.tri {
+  border-right: 52px solid #96252b;
+  border-top: 42px solid transparent;
+  margin-top: 61px;
+  float: left;
+  margin-right: 0px;
+  width: 65px;
+}
+.triangle-white {
+  border-right: 72px solid #ffffff;
+  border-top: 128px solid transparent;
+  margin-top: 17px;
+  float: left;
+  margin-right: 0px;
+}
+.bg-tri {
+  background-color: #96252b;
+  display: flex;
+  justify-content: end;
+}
