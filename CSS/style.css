@@ -3,6 +3,10 @@
   width: 100%;
   height: 100%;
 }
+* {
+  margin: 0px;
+  padding: 0px;
+}
 .space-1,
 .space-2,
 .space-3,
@@ -11,27 +15,57 @@
 .footer-space {
   width: 130px;
 }
-.logo,
 .title,
 .china,
 .para-1,
 .best-clubs,
 .mainn,
 .best-main,
-.text-bvb {
+.text-bvb,
+.bvb-img-main {
   display: flex;
 }
+.img-main {
+  margin-top: 40px;
+}
+.bvb-main-main {
+  margin-top: 45px;
+}
+.lorem-main {
+  margin-left: 148px;
+}
+.bvb-img {
+  width: 117px;
+}
+.lorem-red {
+  color: #96252b;
+  text-align: center;
+  font-size: 18px;
+  margin: 0px;
+  font-weight: 600;
+}
+.lorem-paragraph {
+  text-align: center;
+  font-weight: 600;
+  font-size: 18px;
+}
+.best-main {
+  margin-left: 46px;
+  margin-top: 45px;
+}
 .best-headings {
-    font-size: 55px;
-    font-weight: 900;
-    font-family: system-ui;
-    margin-bottom: 0px;
-    margin-top: 42px;
+  font-size: 56px;
+  font-weight: 900;
+  font-family: system-ui;
+  margin-bottom: 0px;
+  margin-top: 43px;
+  margin-left: 17px;
 }
 .main-logo {
   position: relative;
   top: 50px;
   left: 136px;
+  width: 300px;
 }
 .red-card {
   font-size: 78px;
@@ -56,21 +90,18 @@
 }
 .para {
   width: 1112px;
-  font-family: sans-serif;
-  font-size: 26px;
+  font-family: system-ui;
+  font-size: 23px;
   color: white;
   line-height: 32px;
-  position: relative;
-  left: 133px;
+  margin-left: 133px;
+  font-weight: 400;
 }
 .triangle {
   position: relative;
   left: 142px;
 }
 .mainn {
-  position: relative;
-}
-.global-para-div {
   position: relative;
 }
 .award-1 {
@@ -123,6 +154,7 @@
   background-color: #96252b;
   width: 100%;
   height: 400px;
+  margin-top: 100px;
 }
 .footer {
   font-size: 55px;
@@ -132,10 +164,15 @@
 }
 .reports {
   font-size: 55px;
-  font-family: sans-serif;
+  font-family: system-ui;
   font-weight: 900;
   color: white;
   margin: 0px;
+  margin-top: 127px;
+}
+.footer-flex {
+  display: flex;
+  justify-content: center;
 }
 .text-bvb {
   height: 100px;
@@ -147,6 +184,10 @@
   float: left;
   margin-right: 0px;
   width: 65px;
+  margin-left: 22px;
+}
+.lorem-main-1 {
+  margin-left: 105px;
 }
 .triangle-white {
   border-right: 72px solid #ffffff;
@@ -159,4 +200,18 @@
   background-color: #96252b;
   display: flex;
   justify-content: end;
+}
+.footer-tri {
+  border-right: 56px solid #ffffff;
+  border-top: 82px solid transparent;
+  margin-top: 318px;
+  float: left;
+  margin-right: 0px;
+  width: 65px;
+  margin-left: 152px;
+  position: relative;
+    left: 109px;
+}
+.tri-main{
+  position: relative;
 }
