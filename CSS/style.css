@@ -31,9 +31,6 @@
 .bvb-main-main {
   margin-top: 45px;
 }
-.lorem-main {
-  margin-left: 148px;
-}
 .bvb-img {
   width: 117px;
 }
@@ -49,10 +46,6 @@
   font-weight: 600;
   font-size: 18px;
 }
-.best-main {
-  margin-left: 46px;
-  margin-top: 45px;
-}
 .best-headings {
   font-size: 56px;
   font-weight: 900;
@@ -62,10 +55,11 @@
   margin-left: 17px;
 }
 .main-logo {
-  position: relative;
-  top: 50px;
-  left: 136px;
   width: 300px;
+}
+.logo-img {
+  margin-top: 50px;
+  margin-left: 136px;
 }
 .red-card {
   font-size: 78px;
@@ -73,14 +67,12 @@
   font-weight: 900;
   color: white;
   height: auto;
-  position: relative;
   margin: 0px;
-  top: 42px;
-  left: 127px;
+  margin-top: 42px;
+  margin-left: 127px;
 }
 .red-card-div {
   height: 137px;
-  position: relative;
 }
 .digital-award {
   height: 60px;
@@ -127,6 +119,16 @@
   position: relative;
   left: 205px;
 }
+.container-main {
+  margin-left: 200px;
+  margin-top: 50px;
+}
+.best-main {
+  margin-bottom: 37px;
+}
+.bvb-img-main {
+  gap: 85px;
+}
 .best-clubs {
   height: 133px;
 }
@@ -153,7 +155,7 @@
 .container-2 {
   background-color: #96252b;
   width: 100%;
-  height: 400px;
+  height: 411px;
   margin-top: 100px;
 }
 .footer {
@@ -168,11 +170,16 @@
   font-weight: 900;
   color: white;
   margin: 0px;
-  margin-top: 127px;
+  padding-top: 107px;
+  margin-left: 145px;
 }
-.footer-flex {
-  display: flex;
-  justify-content: center;
+.footer-tri-1{
+  border-right: 106px solid #ffffff;
+  border-top: 130px solid transparent;
+  float: right;
+  margin-right: 0px;
+  width: 435px;
+  margin-top: 280px;
 }
 .text-bvb {
   height: 100px;
@@ -181,13 +188,7 @@
   border-right: 52px solid #96252b;
   border-top: 42px solid transparent;
   margin-top: 61px;
-  float: left;
   margin-right: 0px;
-  width: 65px;
-  margin-left: 22px;
-}
-.lorem-main-1 {
-  margin-left: 105px;
 }
 .triangle-white {
   border-right: 72px solid #ffffff;
@@ -204,14 +205,10 @@
 .footer-tri {
   border-right: 56px solid #ffffff;
   border-top: 82px solid transparent;
-  margin-top: 318px;
-  float: left;
+  float: right;
   margin-right: 0px;
-  width: 65px;
-  margin-left: 152px;
-  position: relative;
-    left: 109px;
+  width: 435px;
 }
-.tri-main{
-  position: relative;
+.footer-flex {
+  margin-top: 127px;
 }
